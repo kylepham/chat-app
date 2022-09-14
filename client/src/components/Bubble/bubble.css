@@ -1,0 +1,26 @@
+.bubble-container {
+  margin: 1.2em 0;
+}
+
+.bubble {
+  background-color: antiquewhite;
+  border-radius: 15px;
+  overflow-wrap: break-word;
+  max-width: 400px;
+  width: fit-content;
+  padding: 10px;
+}
+
+.bubble p {
+  margin: 0;
+}
+
+.bubble-sender {
+  font-size: 0.6rem;
+  width: fit-content;
+  margin-bottom: 0;
+}
+
+.sender {
+  margin-left: auto;
+}
